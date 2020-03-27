@@ -1,0 +1,74 @@
+https://es.overleaf.com/read/scnhwcgxxncx
+
+
+
+
+
+\documentclass[12pt]{article}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{graphicx}
+
+\begin{document}
+
+\begin{center}
+\bf{\sc\Huge universidad de antioquia}\\
+\end{center}
+\vspace{120pt}
+\begin{center}
+\bf{\sc\Huge Ana María Ardila Ariza}\\
+\end{center}
+\vspace{200pt}
+\begin{center}
+\bf{\sc\Huge medellín}
+\end{center}
+\begin{center}
+\bf{\sc\Huge 2020}\\
+\end{center}\
+\newpage
+
+
+\vspace{25PT}
+\section{ Introducción}
+\large
+La computación moderna se ha vuelto algo infaltable en nuestras vidas, la tecnología va innovándose cada día y cada vez más, pero nace una duda respecto a ¿cómo fue que la computación fue avanzando de un momento a otro tan rápido y tan eficientemente? Y ¿cuál fue el acto que desbocó esta era tecnológica? A pesar de que hace mucho tiempo ya había indicios de la computación por medio de maquinas primitivas como la pascalina o la maquina primitiva, fue la “Crisis de los Fundamentos” la cual realizó un papel muy importante para que la computación fuera cuesta arriba con el pasar de los años hasta la actualidad.
+\newpage
+
+\vspace{25PT}
+
+\section{Crisis de los fundamentos y su papel en la computación moderna}
+\vspace{15PT}
+Antes de la llegada del siglo XX, las matemáticas eran infalibles ante la visión del mundo, estas eran la herramienta perfecta para dar solución a cualquier problema planteado, para el desarrollo de las sociedades después de la revolución industrial, eran indispensables y fundamentales para el conocimiento. Pero a finales del siglo XIX empezaron a generarse dudas, y el planteamiento de la palabra “infinito” dio el pie para que en el siglo XX empezara la famosa “Crisis de los fundamentos”.
+
+\vspace{15PT}
+
+Cuando empezó a darse dicha crisis, dos matemáticos llamados Kurt Gödel y Alan Turing, fueron los encargados de demostrar que las matemáticas tenían limitaciones las cuales provocaban que no fueran infalibles. Sin embargo, esto también creó un grupo llamado “Los Formalistas” los cuales afirmaban sin lugar a duda que todo era alcanzable con las matemáticas, eso si, dedicándole el tiempo suficiente; este grupo fue firmemente defendido por el matemático David Hilbert, el cual creó el llamado “Programa de Hilbert”, el cual consistía en demostrar que los sistemas axiomáticos bien definidos, tenían 3 propiedades que los volverían infalibles, las cuales el definió que eran; en primer lugar, tenían que ser consistentes, es decir, que por derecha ya estaba dicho si estos eran verdaderos o falsos; en segundo lugar, eran finitarios, que por medio de unos pasos posibles de contar, se podría llegar a la solución del problema planteado; y en tercer lugar, que sean completos, el cual reunía a los anteriores, diciendo si eran ciertos o falsos. 
+
+\vspace{15PT}
+El programa de Hilbert en su momento no fue cuestionado, o por lo menos no se tiene una evidencia de peso para que lo hubiera podido vencer, no fue hasta 1930 cuando en un congreso matemático realizado en la ciudad de Rusia, un joven matemático llamado Kurt Gödel, se pronunció valientemente a marcar un punto de inflexión en la historia de las matemáticas, afirmando que, bajo ningún motivo, un sistema podría ser a la vez consistente, recursivo y completo. U n año después se publicó un artículo de Gödel en el cual demostró su primer teorema de la incompletitud, en el cual afirmaba que no importa cual sea el sistema definido, si este esta construido de manera que las contradicciones no quepan, existirán enunciados en él, de los cuales jamás se podrá demostrar ni su falsedad, ni su veracidad. Este artículo hizo que el programa de Hilbert se terminara de hundir, y fuera denotado como falso o carente de sentido.
+
+
+\vspace{15PT}
+Años mas tarde en 1936 Alan Turing otro fiel defensor de la crisis de los fundamentos, creó la muy conocida “Maquina Universal”, la cual mostró que no solo hay problemas no solubles, sino que a parte nos es imposible saber cuales serían dichos problemas ya que en el sistema que sea, no siempre es posible llegar a una solución con un número finito de pasos, por lo cual si se escoge un problema al azar, no sería posible saber si realmente este tiene o no solución. El objetivo del invento de la maquina universal, fue por medio de una maquina simple, la cual constaba de una simple tira de papel la cual estaba dividida por cuadros marcados únicamente con ceros y unos (implementación del código binario) y un escáner que adelantaba o retrocedía según la operación que le pidieran realizar, esta maquina realizaba los problemas relacionados con sumas, divisiones, multiplicaciones, etc. 
+
+
+\vspace{15PT}
+La maquina universal de Turing fue el inicio de la computación moderna, ya que esta implementación innovadora del código binario y la implementación de algoritmos hizo que más a delante se empezaran a crear muchos mas modelos que poco a poco desembocarían en la tecnología moderna que tenemos hoy en día , incluso se afirma que cada computador moderno es una agrupación de las máquinas de Turing puestas a trabajar. 
+\vspace{15PT}
+\newpage
+\vspace{25PT}
+\section{ Bibliografía}
+\vspace{15PT}
+https://www.bbvaopenmind.com/ciencia/matematicas/asi-termino-el-sueno-de-las-matematicas-infalibles/
+\vspace{15PT}
+https://elclavo.com/articulos/opinion/la-maquina-universal-de-turing/
+
+
+
+
+
+
+\end{document}
+
+
+
